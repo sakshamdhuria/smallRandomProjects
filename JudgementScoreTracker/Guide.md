@@ -42,7 +42,8 @@ g++ -o judgement judgement.cpp
   Choose whether to continue with another round or end the game.
 6. Ending the Game:
   When you choose to stop playing, the program will display the final scores from best to worst.
-Below is an example interaction with the game:
+7. Below is an example interaction with the game:
+```bash
 Hey, How many players are playing?
 3
 Before starting can you one by one give a character representing each player
@@ -72,3 +73,4 @@ Thank you for playing! Here are the scores from best to worst:
 A: 0
 C: 0
 B: 1
+```
